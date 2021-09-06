@@ -8,7 +8,7 @@ Weather Dashboard with login system using flask
 First delete the exist DATABASE and create new one using SQLALchemy commend line and run the code easy as that !!!
 <h1> THIS IS THE RESULT</h1> 
   
-![user-signin](user-signin.png)
+![user-signin](https://github.com/dtdkhoi/WeatherDashboard/blob/master/user-signin.PNG)
 
-![user-login](user-login.png)
-![weather](weather.png)
+![user-login](https://github.com/dtdkhoi/WeatherDashboard/blob/master/user-login.PNG)
+![weather](https://github.com/dtdkhoi/WeatherDashboard/blob/master/weather.PNG)
